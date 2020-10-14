@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Kriti Khanna
+Hi! 
+Wecome to my website. My name is Kriti Khanna, and I am currently a PhD Candidate in Economics at the University of Houston.
+
 
 
