@@ -17,11 +17,10 @@ I am going to be on the job market this year.
 <div align="center">
 
 <b>Contact Information </b> <br/> <br/> 
-<u>Office Address:</u>  <br/> 
+<b>Office Address:</b>  <br/> 
 Department of Economics, University of Houston <br/> 
 3623 Cullen Blvd. Room 250, Houston, TX, 77204 <br/> <br/>  
-<u>Phone:</u> +1 346-401-7686 <br/> <br/> 
-
-<u>Email:</u> kkhanna2@uh.edu; kriti301@gmail.com
+<b>Phone:</b> +1 346-401-7686 <br/> <br/> 
+<b>Email:</b> kkhanna2@uh.edu; kriti301@gmail.com
 </div>
 
