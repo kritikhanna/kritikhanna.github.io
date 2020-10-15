@@ -1,11 +1,11 @@
 ---
 layout: archive
 title: "Research"
-permalink: /publications/
+permalink: /research/
 author_profile: true
 ---
 
-<b> Job Market Paper:
+<b> Job Market Paper: <\b> Credit Contract Enforcement and Income Dispa
 
 Abstract
 
