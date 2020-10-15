@@ -15,11 +15,10 @@ I am a recipient of the 'Dr. Walter J. Primeaux Jr. and Natalie A. Primeaux Scho
 I am going to be on the job market this year.
 <br/> <br/> <br/> 
 <div align="center">
-
 <b>Contact Information </b> <br/> <br/> 
 <b>Office Address:</b>  <br/> 
 Department of Economics, University of Houston <br/> 
-3623 Cullen Blvd. Room 250, Houston, TX, 77204 <br/> <br/>  
+3623 Cullen Blvd. Room 238, Houston, TX, 77204 <br/> <br/>  
 <b>Phone:</b> +1 346-401-7686 <br/> <br/> 
 <b>Email:</b> kkhanna2@uh.edu; kriti301@gmail.com
 </div>
