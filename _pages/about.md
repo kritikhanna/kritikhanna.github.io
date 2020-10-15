@@ -17,5 +17,12 @@ I am going to be on the job market this year.
 <div align="center">
 
 ### <u>Contact Information <br/> </u> 
+#### Office Address:
+
+Department of Economics, University of Houston
+3623 Cullen Blvd. Room 250, Houston, TX, 77204
+#### Phone: +1 346-401-7686
+
+#### Email: kkhanna2@uh.edu; kriti301@gmail.com
 </div>
 
