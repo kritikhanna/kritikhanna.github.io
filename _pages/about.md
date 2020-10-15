@@ -16,6 +16,6 @@ I am going to be on the job market this year.
 
 <div align="center">
 
-<u> ###Contact Information <br/> </u> 
+### <u>Contact Information <br/> </u> 
 </div>
 
