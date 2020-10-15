@@ -20,8 +20,8 @@ I am going to be on the job market this year.
 <u>Office Address</u>  <br/> 
 Department of Economics, University of Houston <br/> 
 3623 Cullen Blvd. Room 250, Houston, TX, 77204 <br/> <br/>  
-Phone: +1 346-401-7686 <br/> <br/> 
+<u>Phone:</u> +1 346-401-7686 <br/> <br/> 
 
-Email: kkhanna2@uh.edu; kriti301@gmail.com
+<u>Email:</u> kkhanna2@uh.edu; kriti301@gmail.com
 </div>
 
