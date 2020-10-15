@@ -14,5 +14,8 @@ My job market paper focuses on evaluating the role of credit contract enforcemen
 I am a recipient of the 'Dr. Walter J. Primeaux Jr. and Natalie A. Primeaux Scholarship' awarded to the most promising researcher completing his/her 4th year of Ph.D.  <br /> 
 I am going to be on the job market this year.
 
+<div align="center">
 
+# This is gonna be centered!
+</div>
 
