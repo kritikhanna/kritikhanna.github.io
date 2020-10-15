@@ -17,7 +17,7 @@ I am going to be on the job market this year.
 <div align="center">
 
 **Contact Information** <br/> <br/> 
-**Office Address:**  <br/> 
+**Office Address**  <br/> 
 Department of Economics, University of Houston <br/> 
 3623 Cullen Blvd. Room 250, Houston, TX, 77204 <br/> <br/>  
 **Phone:** +1 346-401-7686 <br/> <br/> 
