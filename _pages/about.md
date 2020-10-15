@@ -16,7 +16,7 @@ I am going to be on the job market this year.
 
 <div align="center">
 
-### <u>Contact Information <br/> </u> 
+### Contact Information <br/> 
 #### Office Address: 
 
 Department of Economics, University of Houston <br/> 
