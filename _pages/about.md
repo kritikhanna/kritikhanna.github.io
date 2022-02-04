@@ -16,9 +16,9 @@ I am a recipient of the 'Dr. Walter J. Primeaux Jr. and Natalie A. Primeaux Scho
 <div align="center">
 <b>Contact Information </b> <br/> <br/> 
 <b>Office Address:</b>  <br/> 
-Department of Economics, University of Houston <br/> 
-3623 Cullen Blvd. Room 238, Houston, TX, 77204 <br/> <br/>  
-<b>Phone:</b> +1 346-401-7686 <br/> <br/> 
-<b>Email:</b> kkhanna2@uh.edu; kriti301@gmail.com
+Plaksha University <br/> 
+Sector 101, IT City Road, SAS Nagar, Punjab - 140306 <br/> <br/>  
+<b>Phone:</b> +91- 8800360655 <br/> <br/> 
+<b>Email:</b> kriti301@gmail.com
 </div>
 
