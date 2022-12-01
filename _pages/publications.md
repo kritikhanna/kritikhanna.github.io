@@ -13,4 +13,4 @@ author_profile: true
 
  <b> Spatial Structural Change in India </b> with Priyam Verma and Xavier Bautista <br />
 
-<b> Pre-Doctoral Research: </b> "International Monetary System: Evolution, Problems and Future Possibilities" [M.Phil. Dissertation]
+<i> Pre-Doctoral Research: </i> "International Monetary System: Evolution, Problems and Future Possibilities" [M.Phil. Dissertation]
