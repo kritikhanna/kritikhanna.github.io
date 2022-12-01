@@ -11,6 +11,6 @@ author_profile: true
 
  <a href="https://kritikhanna.github.io/ContractEnforcement-GE/"> Model Code Webpage </a> <br />
 
- <b>"Spatial Structural Change in India" </b> with Priyam Verma and Xavier Bautista <br />
+ <b> Spatial Structural Change in India </b> with Priyam Verma and Xavier Bautista <br />
 
 <b> Pre-Doctoral Research: </b> "International Monetary System: Evolution, Problems and Future Possibilities" [M.Phil. Dissertation]
