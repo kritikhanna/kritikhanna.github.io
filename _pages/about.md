@@ -20,6 +20,6 @@ I am currently the Program Coordinator of the Data Science, Economics, and Busin
 Plaksha University <br/> 
 Sector 101, IT City Road, SAS Nagar, Punjab - 140306 <br/> <br/>  
 <b>Phone:</b> +91- 8800360655 <br/> <br/> 
-<b>Email:</b> kriti301@gmail.com
+<b>Email:</b> kriti.khanna@plaksha.edu.in
 </div>
 
