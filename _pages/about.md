@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hi! Welcome to my website.  <br />  <br /> 
-My name is Kriti Khanna, I am a Founding Faculty, Assistant professor in Economics at Plaksha University, Mohali. My research interests lie broadly in the field of Macroeconomic Development. Particular sub-topics within this area that I am working on currently include - Financial and Labor Market Frictions, Heterogeneous Agents, Misallocation and Income differences, Structural Change, Trade, Crime and Production.  <br /> <br /> 
+My name is Kriti Khanna, I am a Founding Faculty, Assistant professor in Economics at Plaksha University, Mohali, India. My research interests lie broadly in the field of Macroeconomic Development. Particular sub-topics within this area that I am working on currently include - Financial and Labor Market Frictions, Heterogeneous Agents, Misallocation and Income differences, Structural Change, Trade, Crime and Production.  <br /> <br /> 
 I have also served as the founding Program Chair of the Data Science, Economics, and Business Program at Plaksha University between Aug 2022- Aug 2023.  <br /> 
 <br/> 
 I was a recipient of the 'Dr. Walter J. Primeaux Jr. and Natalie A. Primeaux Scholarship' awarded to the most promising researcher completing his/her 4th year of Ph.D at the University of Houston.<br /> <br /> 
