@@ -13,7 +13,6 @@ My name is Kriti Khanna, I am a Founding Faculty, Assistant professor in Economi
 I have also served as the founding Program Chair of the Data Science, Economics, and Business Program at Plaksha University between Aug 2022- Aug 2023.  <br /> 
 
 My research focuses on macroeconomic development, firm-level distortions, and the impact of institutional frictions in emerging economies like India.  <br /> <br /> 
-
 My current research explores how credit enforcement mechanisms, labor regulations, industrial policy (such as India’s PLI schemes), shape resource misallocation, productivity, and structural transformation. I integrate dynamic macroeconomic models with empirical strategies using firm and household data.
 
 Prior to this, I earned my Ph.D. in Economics from the University of Houston, where I developed a strong foundation in both theory and applied macroeconomics. 
