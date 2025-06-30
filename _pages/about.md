@@ -14,7 +14,7 @@ My name is Kriti Khanna, I am a _Founding Faculty, Assistant professor_ in Econo
 My research focuses on macroeconomic development, firm-level distortions, and the impact of institutional frictions in emerging economies like India.  <br /> 
 My current research explores how credit enforcement mechanisms, labor regulations, industrial policy (such as India’s PLI schemes), shape resource misallocation, productivity, and structural transformation. I integrate dynamic heterogeneous agents macroeconomic models with causal empirical strategies using firm and household data.
 
-Prior to this, I earned my Ph.D. in Economics from the University of Houston, where I developed a strong foundation in both macroecomic theory and applied econometrics. <br /> 
+Prior to this, I earned my Ph.D. in Economics from the University of Houston, where I developed a strong foundation in both macroeconomic theory and applied econometrics. <br /> 
 
 At Plaksha University, I teach courses in macroeconomics theory, macro-development, and applied econometrics. I’m especially passionate about mentoring students and building research capacity in fast-growing academic ecosystems.
 <div align="center">
