@@ -13,6 +13,6 @@ author_profile: true
  
  <b> Misallocation and Gendered Labor Choice under Threshold-Based Regulation </b> <br />
 
- <b> Flexible Labor or Shrinking Firms? Labor Code Thresholds and Hiring Responses in India </b> with Shreya Kapoor <br />
+ <b> Flexible Labor or Shrinking Firms? Labor Code Thresholds and Hiring Responses in India </b> <br />
 
 <i> Pre-Doctoral Research: </i> "International Monetary System: Evolution, Problems and Future Possibilities" [M.Phil. Dissertation]
