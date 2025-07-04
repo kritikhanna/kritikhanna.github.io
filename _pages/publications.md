@@ -11,7 +11,7 @@ author_profile: true
 
  <b> Choosing Winners? Productivity Gains and Resource Allocation under India’s PLI Scheme </b> with Priyam Verma <br />
  
- <b> Firm Composition and Capital Dynamics under Labor Regulation: A Gendered General Equilibrium Model </b> <br />
+ <b> Firm Composition and Capital Dynamics under Labor Regulation: A General Equilibrium Model </b> <br />
 
  <b> Flexible Labor or Shrinking Firms? Labor Code Thresholds and Hiring Responses in India </b> <br />
 
