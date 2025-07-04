@@ -11,7 +11,8 @@ author_profile: true
 
  <b> PLI Schemes and Manufacturing growth in India </b> with Priyam Verma <br />
 
- <b> Labor Regulation, Gendered Hiring, and Aggregate Misallocation: Evidence from India's 2020 Labor Reforms </b> <br />
+ <b> Flexible Labor or Shrinking Firms? Labor Code Thresholds and Hiring Responses in India </b> <br />
+ <b> Misallocation and Gendered Labor Choice under Threshold-Based Regulation </b> <br />
 
 
 <i> Pre-Doctoral Research: </i> "International Monetary System: Evolution, Problems and Future Possibilities" [M.Phil. Dissertation]
