@@ -11,7 +11,8 @@ author_profile: true
 
  <b> PLI Schemes and Manufacturing growth in India </b> with Priyam Verma <br />
 
- <b> Flexible Labor or Shrinking Firms? Labor Code Thresholds and Hiring Responses in India </b> <br />
+ <b> Flexible Labor or Shrinking Firms? Labor Code Thresholds and Hiring Responses in India </b> with Shreya Kapoor <br />
+ 
  <b> Misallocation and Gendered Labor Choice under Threshold-Based Regulation </b> <br />
 
 
