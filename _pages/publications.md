@@ -13,6 +13,6 @@ author_profile: true
  
  <b> Firm Composition and Capital Dynamics under Labor Regulation: A General Equilibrium Model </b> <br />
 
- <b> Flexible Labor or Shrinking Firms? Labor Code Thresholds and Hiring Responses in India </b> <br />
+ <b> Flexible Labor or Shrinking Firms? Labor Code Thresholds and Hiring Responses in India </b> <br /> with Shreya Kapoor 
 
 <i> Pre-Doctoral Research: </i> "International Monetary System: Evolution, Problems and Future Possibilities" [M.Phil. Dissertation]
