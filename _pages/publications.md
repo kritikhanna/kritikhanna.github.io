@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-<b> Credit Contract Enforcement and Income Disparities across Indian States: A Heterogeneous Agents Framework with Formal and Informal Firms </b> <br />
+<b> Credit Enforcement, Misallocation, and Income Disparities across Indian States: A Heterogeneous-Agents Framework </b> <br />
 
  <b> Choosing Winners? Aggregate Productivity Gains and Resource Allocation under India’s PLI Scheme </b> with Priyam Verma <br />
 
