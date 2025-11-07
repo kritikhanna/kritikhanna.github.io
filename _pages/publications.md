@@ -13,4 +13,6 @@ author_profile: true
  
  <b> Firm Composition and Capital Dynamics under Labor Regulation: A General Equilibrium Model </b> <br />
 
+ <b> Industry Policy with Firm Heterogeneity: A model of targeted production incentives </b> <br /> with Priyam Verma
+
 <i> Pre-Doctoral Research: </i> "International Monetary System: Evolution, Problems and Future Possibilities" [M.Phil. Dissertation]
