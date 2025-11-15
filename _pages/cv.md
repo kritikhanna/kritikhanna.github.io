@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-<a href = "" >Link to CV</a>
+<a href = "KritiKhanna_CV.pdf" >Link to CV</a>
 
 
