@@ -17,11 +17,8 @@ Prior to this, I earned my Ph.D. in Economics from the University of Houston. <b
 
 At Plaksha University, I teach courses in macroeconomics theory, macro-development, and applied econometrics. I’m especially passionate about mentoring students and building research capacity in fast-growing academic ecosystems.
 <div align="center">
-<b>Contact Information </b> <br/> <br/> 
-<b>Office Address:</b>  <br/> 
-Plaksha University <br/> 
-Sector 101, IT City Road, SAS Nagar, Punjab - 140306 <br/> <br/>  
+<b>Contact Information </b> <br/> <br/>   
 <b>Phone:</b> +91- 8800360655 <br/> <br/> 
-<b>Email:</b> kriti.khanna@plaksha.edu.in
+<b>Email:</b> kriti301@gmail.com
 </div>
 
