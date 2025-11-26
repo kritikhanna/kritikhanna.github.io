@@ -5,7 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
-<b> Credit Enforcement, Misallocation, and Income Disparities across Indian States: A Heterogeneous-Agents Framework </b> <br />
+<b> \textbf{\href{https://github.com/username/RepoName/raw/main/Credit_Enforcement_Paper.pdf}
+{Credit Enforcement, Misallocation, and Income Disparities across Indian States: A Heterogeneous-Agents Framework}}Credit Enforcement, Misallocation, and Income Disparities across Indian States: A Heterogeneous-Agents Framework </b> <br />
 A dynamic heterogeneous-agents general equilibrium model with voluntary entrepreneurs and involuntary
 self-employed individuals is developed and calibrated to state-level measures of financial frictions in India
 to quantify the contribution of credit contract enforcement to resource misallocation and income
