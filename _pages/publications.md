@@ -18,7 +18,7 @@ civil case resolution—shows that improved enforcement reduces the share of vol
 while increasing formal wage worker and involuntary self-employment shares, consistent with the general
 equilibrium mechanism highlighted by the model.
 
- <b> Targeting Winners: Firm Growth, Resource Allocation, and Aggregate Effects of India’s PLI Scheme </b> with Priyam Verma <br /> <i>draft coming soon</i>
+ <b> Targeting Winners: Firm Growth, Resource Allocation, and Aggregate Effects of India’s PLI Scheme </b> with Priyam Verma <i>(draft coming soon)</i> <br /> 
 This paper evaluates India’s Production-Linked Incentive (PLI) scheme as a targeted industrial policy
 intervention. We first implement a difference-in-differences strategy using CMIE Prowess data to
 estimate the short-run causal effects of PLI eligibility on firm-level outcomes including sales, profits,
@@ -30,7 +30,7 @@ calibrate the model to observed firm dynamics and size dispersion in the Indian 
 quantify the aggregate and distributional consequences of “picking winners,” including its effects on
 efficiency, reallocation, and welfare.
 
-<b> The 2020 Labor Code Reform and Resource Allocation in India: Firm Adjustment under Relaxed Employment Protection Thresholds </b> with Shreya Kapoor <br /> <i>draft coming soon</i>
+<b> The 2020 Labor Code Reform and Resource Allocation in India: Firm Adjustment under Relaxed Employment Protection Thresholds </b> with Shreya Kapoor <i> (draft coming soon)</i> <br /> 
 This project investigates how easing India’s employment protection thresholds affects firm behaviour and
 aggregate productivity. A difference-in-RDD design exploits state-level reforms that relaxed dismissal
 restrictions at the 100- and 300-worker cutoffs, comparing discontinuities before and after reform across
