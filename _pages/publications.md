@@ -50,4 +50,6 @@ firms, enabling firm expansion and labor reallocation across types. Model simula
 gains in aggregate productivity, capital accumulation, and wage structure under a more flexible regulatory
 environment.
 
+<b> Why Some States Industrialize and Others Don’t: Credit Enforcement and Sectoral Development in India </b> <br />
+
 <i> Pre-Doctoral Research: </i> "International Monetary System: Evolution, Problems and Future Possibilities" [M.Phil. Dissertation]
