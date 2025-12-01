@@ -18,7 +18,7 @@ civil case resolution—shows that improved enforcement reduces the share of vol
 while increasing formal wage worker and involuntary self-employment shares, consistent with the general
 equilibrium mechanism highlighted by the model.
 
- <b> Targeting Winners: Firm Growth, Resource Allocation, and Aggregate Effects of India’s PLI Scheme </b> with Priyam Verma <i>(draft coming soon)</i> <br /> 
+ <b> Targeting Winners: Firm Growth, Resource Allocation, and Aggregate Effects of India’s PLI Scheme </b> with Priyam Verma  <br /> 
 This paper evaluates India’s Production-Linked Incentive (PLI) scheme as a targeted industrial policy
 intervention. We first implement a difference-in-differences strategy using CMIE Prowess data to
 estimate the short-run causal effects of PLI eligibility on firm-level outcomes including sales, profits,
@@ -50,6 +50,6 @@ firms, enabling firm expansion and labor reallocation across types. Model simula
 gains in aggregate productivity, capital accumulation, and wage structure under a more flexible regulatory
 environment.
 
-<b> Why Some States Industrialize and Others Don’t: Credit Enforcement and Sectoral Development in India </b> <br />
+<b> Why Some States Industrialize and Others Don’t: Institutional Frictions and Sectoral Development in India </b> <br />
 
 <i> Pre-Doctoral Research: </i> "International Monetary System: Evolution, Problems and Future Possibilities" [M.Phil. Dissertation]
