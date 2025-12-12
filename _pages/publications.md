@@ -17,6 +17,7 @@ empirical evidence using NSS microdata and variation in judicial speed—includi
 civil case resolution—shows that improved enforcement reduces the share of voluntary entrepreneurship
 while increasing formal wage worker and involuntary self-employment shares, consistent with the general
 equilibrium mechanism highlighted by the model.
+<a href="[https://kritikhanna.github.io/KritiKhanna_Credit%20Enforcement.pdf](https://kritikhanna.github.io/ContractEnforcement-GE/)" target="_blank"><b> Model Code </b> 
 
  <b> Targeting Winners: Firm Growth, Resource Allocation, and Aggregate Effects of India’s PLI Scheme </b> with Priyam Verma  <br /> 
 This paper evaluates India’s Production-Linked Incentive (PLI) scheme as a targeted industrial policy
