@@ -30,7 +30,7 @@ calibrate the model to observed firm dynamics and size dispersion in the Indian 
 quantify the aggregate and distributional consequences of “picking winners,” including its effects on
 efficiency, reallocation, and welfare.
 
-<b> The 2020 Labor Code Reform and Resource Allocation in India: Firm Adjustment under Relaxed Employment Protection Thresholds </b> with Shreya Kapoor <i> (draft coming soon)</i> <br /> 
+<b> The 2020 Labor Code Reform and Resource Allocation in India: Firm Adjustment under Relaxed Employment Protection Thresholds </b> with Shreya Kapoor <br /> 
 This project investigates how easing India’s employment protection thresholds affects firm behaviour and
 aggregate productivity. A difference-in-RDD design exploits state-level reforms that relaxed dismissal
 restrictions at the 100- and 300-worker cutoffs, comparing discontinuities before and after reform across
