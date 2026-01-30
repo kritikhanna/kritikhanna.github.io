@@ -20,16 +20,17 @@ equilibrium mechanism highlighted by the model.
 <a href="[https://kritikhanna.github.io/KritiKhanna_Credit%20Enforcement.pdf](https://kritikhanna.github.io/ContractEnforcement-GE/)" target="_blank"><b> Model Code </b> 
 
  <b> Targeting Winners: Firm Growth, Resource Allocation, and Aggregate Effects of India’s PLI Scheme </b> with Priyam Verma  <br /> 
-This paper evaluates India’s Production-Linked Incentive (PLI) scheme as a targeted industrial policy
-intervention. We first implement a difference-in-differences strategy using CMIE Prowess data to
-estimate the short-run causal effects of PLI eligibility on firm-level outcomes including sales, profits,
-exports, investment, employment, and input use, as well as potential spillovers on non-PLI firms through
-market competition and supply linkages. These empirical results inform a dynamic heterogeneous-firms
-model where firms differ in productivity and make endogenous entry and exit decisions under policyinduced distortions. In the model, the PLI operates as a targeted production subsidy that advantages
-higher-productivity firms and reshapes the stationary distribution of firm size and productivity. We
-calibrate the model to observed firm dynamics and size dispersion in the Indian manufacturing sector to
-quantify the aggregate and distributional consequences of “picking winners,” including its effects on
-efficiency, reallocation, and welfare.
+This paper evaluates India’s Production-Linked Incentive (PLI) scheme as a targeted industrial policy 
+intervention. We first implement a difference-in-differences strategy using CMIE Prowess data to 
+estimate the short-run causal effects of PLI eligibility on firm-level outcomes including sales, profits, 
+exports, investment, employment, and input use, as well as potential spillovers on non-PLI firms through 
+market competition and supply linkages. These empirical results inform a dynamic heterogeneous-firms 
+model in which firms differ in productivity and make endogenous entry and exit decisions under policy
+induced distortions. In the model, the PLI operates as a targeted production subsidy based on observable 
+eligibility criteria that are imperfectly correlated with underlying firm productivity, thereby reshaping the 
+stationary distribution of firm size and productivity. We calibrate the model to observed firm dynamics 
+and size dispersion in the Indian manufacturing sector to quantify the aggregate and distributional 
+consequences of “picking winners,” including its effects on efficiency, reallocation, and welfare. 
 
 <b> The 2020 Labor Code Reform and Resource Allocation in India: Firm Adjustment under Relaxed Employment Protection Thresholds </b> with Shreya Kapoor <br /> 
 This project investigates how easing India’s employment protection thresholds affects firm behaviour and
@@ -43,13 +44,14 @@ reducing size-based labor regulation.
 
 
 <b> Employment Protection Thresholds and Firm Dynamics: A Quantitative GE Model </b> <br />
-The paper develops a general equilibrium model with heterogeneous firms and households supplying
-three labor types—regular, contractual, and female—to quantify the macroeconomic effects of relaxing
-dismissal thresholds. Firms face a regulatory cost when employment exceeds the IDA cutoff, distorting
-labor demand, input mix, and scale decisions. Raising the threshold reduces the share of constrained
-firms, enabling firm expansion and labor reallocation across types. Model simulations quantify resulting
-gains in aggregate productivity, capital accumulation, and wage structure under a more flexible regulatory
-environment.
+The paper develops a general equilibrium occupational choice model with heterogeneous firms and 
+households that choose between entrepreneurship and wage employment and supply differentiated labor 
+types—regular, contract, and female—to quantify the macroeconomic effects of relaxing dismissal 
+thresholds. Firms face regulatory costs when employment exceeds the IDA cutoff, which distort labor 
+demand, input mix, scale decisions and occupational choice. Raising the threshold reduces the share of 
+constrained firms, enabling productive entrepreneurs to expand and reallocating workers across labor 
+types and occupations. Model simulations quantify the resulting gains in aggregate productivity, capital 
+accumulation, and the wage structure under a more flexible regulatory environment. 
 
 <b> Why Some States Industrialize and Others Don’t: Institutional Frictions and Sectoral Development in India </b> <br />
 
